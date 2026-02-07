@@ -1,4 +1,4 @@
-class Bitwise
+class bitwise
 {
     public static void main(String args[])
     {
@@ -8,9 +8,5 @@ class Bitwise
         System.out.println(a | b);
         System.out.println(a ^ b);
         System.out.println(~a);
-        System.out.println(~b);
-        System.out.println(a << b);
-        System.out.println(a >> b);
-        System.out.println(a >>> b);
     }
 }
